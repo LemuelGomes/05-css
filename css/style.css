@@ -1,0 +1,19 @@
+body
+{
+background-color: black;
+}
+
+#retangulo1 
+{
+    background-color: blue;
+}
+
+.retangulos 
+{
+    position: relative;
+    float: left;
+    width: 100px;
+    height: 200px;
+    background-color: brown;
+    margin-left: 5%;
+}
