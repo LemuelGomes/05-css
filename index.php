@@ -13,5 +13,14 @@
     <div class="retangulos"></div>
     <div class="retangulos"></div>
     <div class="retangulos"></div>
+    <br><br>
+
+<?php
+    for ($i = 0; $i < 10; $i++) 
+    {
+        echo '<div class="retangulos"></div>';
+    }
+
+?>
 </body>
 </html>

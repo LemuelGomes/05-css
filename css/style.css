@@ -1,5 +1,6 @@
 body
 {
+color: aliceblue;
 background-color: black;
 }
 
@@ -15,5 +16,6 @@ background-color: black;
     width: 100px;
     height: 200px;
     background-color: brown;
+    margin-top: 5%;
     margin-left: 5%;
 }
